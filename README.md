@@ -7,16 +7,37 @@
 
 ---
 
-### 📝 About Me
-I am a dedicated **Software Engineer** specializing in building scalable backend systems and high-performance embedded solutions. My expertise spans from high-level web technologies to low-level hardware control.
-
-- 🔭 **Working on:** [Project BDHR](https://github.com/JunayedFahad) (Digital Health Registry)
-- ⚡ **Latest Experiment:** Smart Water Tank Level Detector using Arduino Uno.
-- 🌱 **Learning:** Advanced Robotics and Cloud Architecture.
-
 ---
 
-### 🛠️ Technical Skills
+## 👨‍💻 About Me
+
+> [!IMPORTANT]
+> **I am a dedicated Software Engineer specializing in building scalable backend systems and high-performance embedded solutions. My expertise spans from high-level web technologies to low-level hardware control.**
+
+<div align="left">
+  <table border="0">
+    <tr>
+      <td>🔭</td>
+      <td><b>Working on:</b></td>
+      <td><a href="https://github.com/JunayedFahad">Project BDHR</a> (Digital Health Registry)</td>
+    </tr>
+    <tr>
+      <td>⚡</td>
+      <td><b>Latest Experiment:</b></td>
+      <td>Smart Water Tank Level Detector using <code>Arduino Uno</code></td>
+    </tr>
+    <tr>
+      <td>🌱</td>
+      <td><b>Learning:</b></td>
+      <td><i>Advanced Robotics and Cloud Architecture</i></td>
+    </tr>
+    <tr>
+      <td>🎯</td>
+      <td><b>Goal:</b></td>
+      <td>To bridge the gap between high-level software and low-level hardware.</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
