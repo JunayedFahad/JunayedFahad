@@ -1,4 +1,4 @@
- <align="center">Hi there, I'm Junayed Fahad 🚀</center>
+ Hi there, I'm Junayed Fahad 🚀</center>
 
 <p align="center">
   <b>Software Engineer | C++ | C# | Web Development</b><br>
