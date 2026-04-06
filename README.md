@@ -2,7 +2,7 @@
   <h1>👋 Hi, My Name is Junayed Fahad</h1>
   <h3>✨ Welcome to my GitHub Account! ✨</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=🚀+Software+Engineer;Embedded+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=🚀+Software+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 ---
