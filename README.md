@@ -18,23 +18,26 @@ I am a dedicated **Software Engineer** specializing in building scalable backend
 
 ### 🛠️ Technical Skills
 
-| Area | Technologies |
+---
+
+### 🛠️ Technical Skills
+
+<div align="left">
+
+| **Category** | **Technologies & Tools** |
 | :--- | :--- |
-| **Languages** | C++, C#, JavaScript, SQL |
-| **Frameworks** | .NET Core, Entity Framework |
-| **Hardware** | Arduino, STM32, Embedded C |
-| **Databases** | Oracle 10g, Microsoft SQL Server |
+| 💻 **Languages** | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /> |
+| 🏗️ **Frameworks** | <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white" /> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white" /> |
+| 🤖 **Hardware** | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white" /> |
+| 🗄️ **Databases** | <img src="https://img.shields.io/badge/Oracle%2010g-F80000?style=flat&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" /> |
+
+</div>
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunayedFahad&show_icons=true&theme=radical&hide_border=true" alt="Junayed's Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedFahad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunayedFahad&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+
 
 ---
 
