@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Junayed%20Fahad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00599C&height=200&section=header&text=Junayed%20Fahad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
   
   <h3>🚀 Software Engineer | Embedded Systems Enthusiast</h3>
   
