@@ -1,45 +1,68 @@
- Hi there, I'm Junayed Fahad 🚀</center>
-
-<p align="center">
-  <b>Software Engineer | C++ | C# | Web Development</b><br>
-  <i>I bridge the gap between high-performance backend logic and sleek frontend design.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Junayed%20Fahad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <h3>🚀 Software Engineer | Embedded Systems Enthusiast</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 📝 About Me
+I am a dedicated **Software Engineer** specializing in building scalable backend systems and high-performance embedded solutions. My expertise spans from high-level web technologies to low-level hardware control.
 
-| Category | Tools & Technologies |
+- 🔭 **Working on:** [Project BDHR](https://github.com/JunayedFahad) (Digital Health Registry)
+- ⚡ **Latest Experiment:** Smart Water Tank Level Detector using Arduino Uno.
+- 🌱 **Learning:** Advanced Robotics and Cloud Architecture.
+
+---
+
+### 🛠️ Technical Skills
+
+| Area | Technologies |
 | :--- | :--- |
-| **Backend & Systems** | C++, C#, .NET |
-| **Web Development** | HTML5, CSS3, JavaScript |
-| **Database** | SQL, Oracle |
-| **Hardware/Embedded** | Arduino, STM32 (Embedded Systems) |
+| **Languages** | C++, C#, JavaScript, SQL |
+| **Frameworks** | .NET Core, Entity Framework |
+| **Hardware** | Arduino, STM32, Embedded C |
+| **Databases** | Oracle 10g, Microsoft SQL Server |
 
 ---
 
-### 🔭 Currently Working On
-* **Project BDHR:** Developing a large-scale digital health registry.
-* **Embedded Logic:** 💧 Smart Water Tank Level Detector Using Arduino Uno.
+### 📊 GitHub Analytics
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JunayedFahad&show_icons=true&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedFahad&layout=compact&theme=radical&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
----
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunayedFahad&theme=radical&hide_border=true" width="100%" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/junayed-fahad-3b716b401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Junayed Fahad" height="30" width="40" /></a>
-<a href="mailto:junayedfahad22@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/junayed-fahad-3b716b401">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:junayedfahad22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-<p align="center"><i>"The best way to predict the future is to invent it."</i></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
