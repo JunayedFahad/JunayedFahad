@@ -1,15 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=🚀+Software+Engineer;Embedded+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-</div>
+  <h1>👋 Hi, My Name is Junayed Fahad</h1>
+  <h3>✨ Welcome to my GitHub Account! ✨</h3>
   
-  <p>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=🚀+Software+Engineer;Embedded+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,6 +13,17 @@ I am a dedicated **Software Engineer** specializing in building scalable backend
 - 🔭 **Working on:** [Project BDHR](https://github.com/JunayedFahad) (Digital Health Registry)
 - ⚡ **Latest Experiment:** Smart Water Tank Level Detector using Arduino Uno.
 - 🌱 **Learning:** Advanced Robotics and Cloud Architecture.
+
+---
+
+### 🛠️ Technical Skills
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C++, C#, JavaScript, SQL |
+| **Frameworks** | .NET Core, Entity Framework |
+| **Hardware** | Arduino, STM32, Embedded C |
+| **Databases** | Oracle 10g, Microsoft SQL Server |
 
 ---
 
