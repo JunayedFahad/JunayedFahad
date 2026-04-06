@@ -24,31 +24,13 @@ I am a dedicated **Software Engineer** specializing in building scalable backend
 
 ---
 
-### 🛠️ Technical Skills
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | C++, C#, JavaScript, SQL |
-| **Frameworks** | .NET Core, Entity Framework |
-| **Hardware** | Arduino, STM32, Embedded C |
-| **Databases** | Oracle 10g, Microsoft SQL Server |
-
----
-
 ### 📊 GitHub Analytics
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JunayedFahad&show_icons=true&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedFahad&layout=compact&theme=radical&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunayedFahad&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunayedFahad&show_icons=true&theme=radical&hide_border=true" alt="Junayed's Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedFahad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunayedFahad&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
